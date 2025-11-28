@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Arjun P Shetty</h1>
 
-<h3><code>A Passionate Full-Stack Developer</code></h3>
+<h3><code>A Passionate Developer</code></h3>
 
 <p align="center">
   I  am arjun
