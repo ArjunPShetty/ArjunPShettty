@@ -12,8 +12,9 @@
 ## 🧰 &nbsp;My Toolbox
 
 <p align="center">
-  <img width="750px" src="https://skillicons.dev/icons?i=c,cpp,py,github,arduino,mongodb,linux,docker,Vivado&theme=dark&perline=12" alt="skills" />
+  <img width="750px" src="https://skillicons.dev/icons?i=verilog,systemverilog,vhdl,fpga,riscv,vivado,quartus,synopsys,cadence,mentor,axi,spi,i2c,uart,c,cpp,py,github,linux,docker,git,bash,vscode&theme=dark&perline=12" />
 </p>
+
 
 ---
 
