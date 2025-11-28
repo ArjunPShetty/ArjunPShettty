@@ -19,6 +19,6 @@
 
 &nbsp;
 
-<img src="https://github-readme-streak-stats-kv.vercel.app?user=Preetham404&hide_border=true&background=042222&ring=00df82&fire=00df82&currStreakNum=f1f1f1&currStreakLabel=fb0&sideNums=00df82&sideLabels=a9cbc3&dates=fb0" width="48%" alt="Preetham404's github-readme-streak-stats"/>
+<img src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=042222&ring=00df82&fire=00df82&currStreakNum=f1f1f1&currStreakLabel=fb0&sideNums=00df82&sideLabels=a9cbc3&dates=fb0" width="48%" alt="ArjunPShetty's github-readme-streak-stats"/>
 
-<img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Preetham404&bg_color=042222&title_color=00df82&color=f6d647&line=00df82&point=fb0&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+<img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=ArjunPShetty&bg_color=042222&title_color=00df82&color=f6d647&line=00df82&point=fb0&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
